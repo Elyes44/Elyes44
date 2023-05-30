@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elyes44" alt="elyes44" /></a> </p>
 
-- 🌱 I’m currently learning **Cloud (AWS), .NET, Springboot,Symfony**
+- 🌱 I’m currently learning **Cloud/DevOps, .NET, Springboot,Symfony**
 
 - 💬 Ask me about **System Administration Redhat (centos7)**
 
