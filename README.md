@@ -12,7 +12,7 @@
 ---
 
 ### 🛡️ Professional Profile
-I am a **DevSecOps Engineer** specializing in securing, hardening, and scaling critical infrastructure within the fintech sector. My expertise focuses on implementing strict security standards (PCI DSS), vulnerability management, continuous compliance monitoring, and automated infrastructure orchestration.
+I am a **DevOpsEngineer** specializing in securing, hardening, and scaling critical infrastructure within the fintech sector. My expertise focuses on implementing strict security standards (PCI DSS), vulnerability management, continuous compliance monitoring, and automated infrastructure orchestration.
 
 - 💼 **Focus Areas:** Infrastructure Hardening | Cloud Security (AKS/Azure) | CI/CD Automation | Vulnerability Assessment & Penetration Testing
 - 🎓 **Credentials:** Engineering Degree
