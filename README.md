@@ -17,8 +17,8 @@
 ### 🛡️ Professional Profile
 I am a **DevOps Engineer** dedicated to building resilient, scalable, and high-performance cloud infrastructure. My work bridges the gap between development and operations, with a deep focus on **system hardening, automated compliance, and security orchestration**. I believe that robust security isn't just a requirement—it’s a foundational pillar of efficient DevOps.
 
-- 🏗️ **Core Expertise:** Cloud Architecture (AKS/Azure/AWS), CI/CD Automation, Infrastructure as Code (Terraform), and Orchestration.
-- 🔒 **Security Integration:** Proactive vulnerability management, compliance-driven design (PCI DSS), and secure pipeline development.
+- 🏗️ **Core Expertise:** Cloud Architecture, CI/CD Automation, Infrastructure as Code, and Orchestration.
+- 🔒 **Security Integration:** Proactive vulnerability management and secure pipeline development.
 - 🎓 **Credentials:** Engineering Degree
 - 📫 **Reach Me:** Abidi.medelyes@gmail.com
 
